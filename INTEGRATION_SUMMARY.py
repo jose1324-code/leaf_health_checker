@@ -60,7 +60,7 @@ Modified Files:
 🔑 API CONFIGURATION
 ════════════════════════════════════════════════════════════════════════════════
 
-API Key:               AIzaSyCbFF4dKddz8XtAvnLvOCo2cgUawcAkJwU
+API Key:               REDACTED
 Provider:              Google AI (Gemini)
 Model:                 Gemini-Pro
 Status:                ✅ ACTIVE & VERIFIED
@@ -69,7 +69,7 @@ Cost:                  Free (within limits)
 Location:              .env file (root directory)
 
 Configuration:
-  GOOGLE_GEMINI_API_KEY=AIzaSyCbFF4dKddz8XtAvnLvOCo2cgUawcAkJwU
+  GOOGLE_GEMINI_API_KEY=YOUR_API_KEY_HERE
   GEMINI_MODEL=gemini-pro
   GEMINI_TEMPERATURE=0.7
   GEMINI_MAX_OUTPUT_TOKENS=1000
@@ -325,7 +325,7 @@ STREAMLIT CLOUD:
   • Set secret: GOOGLE_GEMINI_API_KEY
 
 AWS/HEROKU:
-  export GOOGLE_GEMINI_API_KEY=AIzaSyCbFF4dKddz8XtAvnLvOCo2cgUawcAkJwU
+  export GOOGLE_GEMINI_API_KEY=YOUR_API_KEY_HERE
   streamlit run app.py
 
 ════════════════════════════════════════════════════════════════════════════════

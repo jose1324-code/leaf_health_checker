@@ -19,7 +19,7 @@ Total Size:              ~250 MB (with models)
 
 Status:                  ✅ PRODUCTION READY
 API Integration:         ✅ GOOGLE GEMINI AI - ACTIVE
-API Key:                 ✅ AIzaSyCbFF4dKddz8XtAvnLvOCo2cgUawcAkJwU
+API Key:                 ✅ REDACTED
 
 ═══════════════════════════════════════════════════════════════════════════════
 
@@ -134,7 +134,7 @@ STEP 3: Launch Application
 🤖 GOOGLE GEMINI AI CAPABILITIES
 
 API Configuration:
-  API Key:       AIzaSyCbFF4dKddz8XtAvnLvOCo2cgUawcAkJwU
+  API Key:       REDACTED
   Model:         Gemini-Pro
   Rate Limit:    1,000 requests/minute
   Status:        ✅ ACTIVE
