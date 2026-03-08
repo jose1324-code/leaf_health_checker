@@ -45,6 +45,11 @@ venv.bak/
 .streamlit/
 .streamlit/cache/
 
+# Environment variables
+.env
+.env.local
+.env.*.local
+
 # Models (large files - keep local only)
 model/*.h5
 model/*.pkl
